@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792300859247",
+    "firebase_url": "https://ekcproject-f2e7f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ekcproject-f2e7f",
+    "storage_bucket": "ekcproject-f2e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792300859247:android:e8b41cb474af9b6f60429a",
+        "android_client_info": {
+          "package_name": "com.example.ekc_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792300859247-o68cc1cqvl0m4oconh6708ov16t4cfji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekc_project",
+            "certificate_hash": "59bdf197119f09e204f574743c76a64aeb7b90e5"
+          }
+        },
+        {
+          "client_id": "792300859247-8kc26lmjgqrj8c4esorv0pa0sma1r19c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4KoZer3K51C1IlWR3W8kjw7VK2sDuhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792300859247-7i6i5hqhei7rpf5r41puask2knfbe848.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
